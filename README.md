@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-> Run locally — see setup instructions below.
+**https://strikeclone-ce2j8dtsn-pandeydarshit96-5366.vercel.app**
 
 ---
 
@@ -151,7 +151,6 @@ VITE_GEMINI_API_KEY=your_gemini_api_key_here
 ```bash
 npm run dev
 ```
-Open [http://localhost:5173](http://localhost:5173)
 
 ---
 
