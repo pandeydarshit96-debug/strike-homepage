@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-**https://strikehomepageclone.vercel.app/**
+**https://strikeclonev2.vercel.app/**
 
 ---
 
