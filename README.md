@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-**https://strikeclone-ce2j8dtsn-pandeydarshit96-5366.vercel.app**
+**https://strikeclone.vercel.app/**
 
 ---
 
